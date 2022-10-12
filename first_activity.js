@@ -221,7 +221,7 @@ const numbers = [
 // the current task to be finished. This is useful especially when certain tasks takes too long to be finished.
 
 //? Problem #12: Explain what call back hell is. 
-
+    
 
 // Callback hell is basically a term for nested callbacks in which each callback waits for the previous callback to be finished.
 
